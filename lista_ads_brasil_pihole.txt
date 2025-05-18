@@ -4,7 +4,7 @@
 # Donation: 
 # Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados: 317 
+# Total Sites Bloqueados: 316 
 
 
 
@@ -305,7 +305,6 @@ u.openx.net
 u-iad04.e-planning.net
 um.simpli.fi
 ums.acuityplatform.com
-uploads.acordacidade.com.br
 ups.analytics.yahoo.com
 us.shb-sync.com
 use4.s.seedtag.com
