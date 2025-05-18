@@ -175,7 +175,6 @@ f0a6bd041f78b501d8b8e64d859e6869.safeframe.googlesyndication.com
 fastlane.rubiconproject.com
 fb68e8c6fe8edc775e11fed30d3775b3.safeframe.googlesyndication.com
 fledge.us.criteo.com
-fonts.gstatic.com
 gcdn.2mdn.net
 global.ib-ibi.com
 go.pubmatic.com
@@ -323,7 +322,6 @@ ssb-use1.smartadserver.com
 ssb-use2.smartadserver.com
 ssb-usw1.smartadserver.com
 ssc-cms.33across.com
-ssl.gstatic.com
 ssp-ads.us5.us.criteo.com
 ssp-sync.criteo.com
 ssum.casalemedia.com
@@ -410,7 +408,6 @@ vpaid.vidoomy.com
 waa-pa.clients6.google.com
 wt.rqtrk.eu
 www.googleadservices.com
-www.gstatic.com
 www.ibm.com
 www.zimaspace.com
 www8.smartadserver.com
