@@ -4,7 +4,7 @@
 # Donation: 
 # Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados:  426
+# Total Sites Bloqueados:  
 
 
 
@@ -220,7 +220,6 @@ js.ad-score.com
 js2.ad-score.com
 kinesis.us-east-2.amazonaws.com
 l.evidon.com
-lh3.googleusercontent.com
 live.primis.tech
 loadm.exelator.com
 lyr.pubmatic.com
