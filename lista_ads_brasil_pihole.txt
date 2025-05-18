@@ -1,10 +1,10 @@
 #Title: lista_ads_brasil_pihole
-# Version: 0.50
+# Version: 0.60
 # Homepage: https://github.com/johnhomelab
 # Donation: 
 # Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados: 335 
+# Total Sites Bloqueados:  
 
 
 
@@ -343,3 +343,85 @@ www9.smartadserver.com
 x.bidswitch.net
 ym-tack.b-cdn.net
 zimaspace.com
+014d8db01c1b2458d0e97d57664b3ab5.safeframe.googlesyndication.com
+48a9daeda3f13626dc93e0d3e451d35e.safeframe.googlesyndication.com
+5173704f928a5862e94a3e49d60b6319.safeframe.googlesyndication.com
+aax-us-east.amazon-adsystem.com
+acdn.adnxs.com
+ade.googlesyndication.com
+adguardteam.github.io
+adservice.google.com
+aes.us-east.3px.axp.amazon-adsystem.com
+apps.sascdn.com
+b.sharethrough.com
+b1t-chidc2.outbrain.com
+b1t-nydc1.outbrain.com
+bh-xandr.contextweb.com
+bid.g.doubleclick.net
+cadmus2.script.ac
+capi.connatix.com
+cdn.flashtalking.com
+cdn.n.dynstc.com
+cookie-sync.api.soundcast.fm
+cp.pubfinity.com
+crcldu.com
+creatives.seedtag.com
+csync-us.smartadserver.com
+d.tailtarget.com
+data2.ad-score.com
+dpm.demdex.net
+e4086384a84a2b32d00e5c1f989adb40.safeframe.googlesyndication.com
+gcdn.2mdn.net
+global.ib-ibi.com
+gocm.c.appier.net
+googledv-match.dotomi.com
+hblg.media.net
+i.ytimg.com
+ib.mookie1.com
+ics.travelaudience.com
+images-na.ssl-images-amazon.com
+images.taboola.com
+img.youtube.com
+js.ad-score.com
+js2.ad-score.com
+loadm.exelator.com
+m.media-amazon.com
+match.360yield.com
+media.grid.bidswitch.net
+prebid.media.net
+public-prod-dspcookiematching.dmxleo.com
+quantcast.partners.tremorhub.com
+r1---sn-gpv7kn76.c.2mdn.net
+r1---sn-gpv7yn7l.c.2mdn.net
+r2---sn-gpv7yne7.c.2mdn.net
+r4---sn-gpv7kn7y.c.2mdn.net
+r4---sn-gpv7kne7.c.2mdn.net
+r5---sn-gpv7ynes.c.2mdn.net
+rr1---sn-xhcg5uxa-nn5e.googlevideo.com
+rr2---sn-xhcg5uxa-nn5e.googlevideo.com
+rr3---sn-xhcg5uxa-nn5e.googlevideo.com
+rr4---sn-gpv7kn7d.googlevideo.com
+rr4---sn-xhcg5uxa-nn5e.googlevideo.com
+rr5---sn-bg0e6nes.googlevideo.com
+rt.t.tailtarget.com
+rtb.da.us.criteo.com
+rules.quantcount.com
+s.ads.smartadserver.com
+s.update.rubiconproject.com
+ssb-use1.smartadserver.com
+ssp-ads.us5.us.criteo.com
+static.richaudience.com
+sync.resetdigital.co
+sync.technoratimedia.com
+synchroscript.deliveryengine.adswizz.com
+t.us1.dyntrk.com
+tags.t.tailtarget.com
+uipglob.semasio.net
+unified.adsafeprotected.com
+uploads.acordacidade.com.br
+use1.smartadserver.com
+usermatch.targeting.unrulymedia.com
+video-content.b-cdn.net
+videos.taboola.com
+www8.smartadserver.com
+yt3.ggpht.com
