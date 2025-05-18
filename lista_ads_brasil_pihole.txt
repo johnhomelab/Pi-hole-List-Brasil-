@@ -1,10 +1,11 @@
 #Title: lista_ads_brasil_pihole
-# Version: 0.30
+# Version: 0.40
 # Homepage: https://github.com/johnhomelab
 # Donation: 
-# Last modified: 18-05-2025 08:52 AM
+# Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados: 327 
+# Total Sites Bloqueados: 317 
+
 
 
 00px.net
@@ -31,7 +32,6 @@ ad.360yield.com
 ad.doubleclick.net
 ad.turn.com
 ad-events.flashtalking.com
-adguardteam.github.io
 ads.avads.net
 ads.mythad.com
 ads.pubmatic.com
@@ -46,12 +46,10 @@ ajs-assets.ftstatic.com
 analytics.google.com
 aorta.clickagy.com
 ap.lijit.com
-api.github.com
 api.retargetly.com
 app.retargetly.com
 arclight.vimeo.com
 assets.meliadn.com
-avatars.githubusercontent.com
 b.t.tailtarget.com
 b1sync.outbrain.com
 b1sync.zemanta.com
@@ -68,7 +66,6 @@ c.amazon-adsystem.com
 c.evidon.com
 c1.adform.net
 c21lg-d.media.net
-camo.githubusercontent.com
 cat.us5.us.criteo.com
 cdn.00px.net
 cdn.debugbear.com
@@ -92,7 +89,6 @@ cm.adgrx.com
 cm.g.doubleclick.net
 cm.t.tailtarget.com
 cms.quantserve.com
-collector.github.com
 config.aps.amazon-adsystem.com
 connect.facebook.net
 content.quantcount.com
@@ -144,8 +140,6 @@ fb68e8c6fe8edc775e11fed30d3775b3.safeframe.googlesyndication.com
 fledge.us.criteo.com
 fonts.googleapis.com
 fonts.gstatic.com
-github.com
-github.githubassets.com
 go.pubmatic.com
 googleads.g.doubleclick.net
 googlesyndication.com
@@ -189,7 +183,6 @@ mug.criteo.com
 mweb.ck.inmobi.com
 myaccount.google.com
 mytools.management
-objects-origin.githubusercontent.com
 ogads-pa.clients6.google.com
 ogs.google.com
 onetag-sys.com
@@ -201,7 +194,6 @@ pbjs.e-planning.net
 pbs.aniview.com
 pbs.nextmillmedia.com
 pbs.yahoo.com
-perflyst.github.io
 pi.pardot.com
 pixel.adsafeprotected.com
 pixel.quantserve.com
@@ -226,7 +218,6 @@ pubmatic.com
 px.ads.linkedin.com
 px4.ads.linkedin.com
 r.casalemedia.com
-raw.githubusercontent.com
 retargetly.com
 rtb.adpone.com
 rtb.gumgum.com
