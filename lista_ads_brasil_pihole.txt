@@ -9,7 +9,6 @@
 
 
 00px.net
-googlesyndication.com
 membrana-cdn.media
 014d8db01c1b2458d0e97d57664b3ab5.safeframe.googlesyndication.com
 030fc47cfa448541a7888cd7a1fd542c.safeframe.googlesyndication.com
@@ -36,7 +35,6 @@ a.vidoomy.com
 aa.agkn.com
 aax.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
-accounts.google.com
 accounts.youtube.com
 acdn.adnxs.com
 ad.360yield.com
@@ -57,7 +55,6 @@ aes.us-east.3px.axp.amazon-adsystem.com
 agen-assets.ftstatic.com
 ajax.cloudflare.com
 ajs-assets.ftstatic.com
-analytics.google.com
 aorta.clickagy.com
 ap.lijit.com
 api.retargetly.com
@@ -162,6 +159,7 @@ eb2.3lift.com
 elb.the-ozone-project.com
 encrypted-tbn0.gstatic.com
 encrypted-vtbn0.gstatic.com
+adtrafficquality.google
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
@@ -177,7 +175,6 @@ f0a6bd041f78b501d8b8e64d859e6869.safeframe.googlesyndication.com
 fastlane.rubiconproject.com
 fb68e8c6fe8edc775e11fed30d3775b3.safeframe.googlesyndication.com
 fledge.us.criteo.com
-fonts.googleapis.com
 fonts.gstatic.com
 gcdn.2mdn.net
 global.ib-ibi.com
@@ -200,7 +197,6 @@ ib.mookie1.com
 ice.360yield.com
 ics.travelaudience.com
 id.a-mx.com
-id.google.com
 id.rlcdn.com
 id.rtb.mx
 id5-sync.com
@@ -238,7 +234,6 @@ mp.4dex.io
 ms-cookie-sync.presage.io
 mug.criteo.com
 mweb.ck.inmobi.com
-myaccount.google.com
 mytools.management
 ogads-pa.clients6.google.com
 ogs.google.com
@@ -292,6 +287,7 @@ rr3---sn-xhcg5uxa-nn5e.googlevideo.com
 rr4---sn-gpv7kn7d.googlevideo.com
 rr4---sn-xhcg5uxa-nn5e.googlevideo.com
 rr5---sn-bg0e6nes.googlevideo.com
+googlevideo.com
 rt.marphezis.com
 rt.t.tailtarget.com
 rtb.adpone.com
@@ -387,7 +383,6 @@ td.doubleclick.net
 token.rubiconproject.com
 tpc.googlesyndication.com
 tr.blismedia.com
-translate-pa.googleapis.com
 trc.taboola.com
 tt-12765-5.seg.t.tailtarget.com
 u.4dex.io
