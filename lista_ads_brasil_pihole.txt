@@ -1,24 +1,28 @@
 #Title: lista_ads_brasil_pihole
-# Version: 0.40
+# Version: 0.50
 # Homepage: https://github.com/johnhomelab
 # Donation: 
 # Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados: 316 
+# Total Sites Bloqueados: 335 
 
 
 
 00px.net
+030fc47cfa448541a7888cd7a1fd542c.safeframe.googlesyndication.com
 0de8a471854b73afbb712d6c891f33bd.safeframe.googlesyndication.com
 0f13bc262ac09ad168b6d75c786d703e.safeframe.googlesyndication.com
 10094105f3b58b7e4b7a2a8a5cc6cf37.safeframe.googlesyndication.com
 186f206436be470fa326a3e7226167bc.safeframe.googlesyndication.com
+1c275eac929a90f50ff959d382b578ff.safeframe.googlesyndication.com
 1da03f6aaec540cfc06909b90af28c06.safeframe.googlesyndication.com
 2e2ae1592be0dfec6754e93f4f98f6fd.safeframe.googlesyndication.com
 35840fd1c3b360c532a15137fce08518.safeframe.googlesyndication.com
 36826c0acba433a64f05222961979c6b.safeframe.googlesyndication.com
 5f14ac51b555e502cb0510b319d75f0f.safeframe.googlesyndication.com
+60b5d0f1c11f08dcb153c4edbdffe1c1.safeframe.googlesyndication.com
 7d8efa3b103db51e53c5a831eec28857.safeframe.googlesyndication.com
+876741a92708489d664c2c4a22e1c828.safeframe.googlesyndication.com
 8a237c4a0903ebf3dcc4b4dada778374.safeframe.googlesyndication.com
 953849442a3f9c3b4f33178b14caab7f.safeframe.googlesyndication.com
 a.amxrtb.com
@@ -55,6 +59,7 @@ b1sync.outbrain.com
 b1sync.zemanta.com
 b94dd58a4c9b3204a56ffc193420e955.safeframe.googlesyndication.com
 bcp.crwdcntrl.net
+beacon.lynx.cognitivlabs.com
 beacon.taboola.com
 beacon-iad2.rubiconproject.com
 bh.contextweb.com
@@ -62,10 +67,12 @@ bidder.criteo.com
 bidder.smartytouch.co
 blog-casaos.zimaspace.com
 bttrack.com
+c.4dex.tech
 c.amazon-adsystem.com
 c.evidon.com
 c1.adform.net
 c21lg-d.media.net
+c8f1f1efbf21d3fd6a017fe98d5f1506.safeframe.googlesyndication.com
 cat.us5.us.criteo.com
 cdn.00px.net
 cdn.debugbear.com
@@ -120,6 +127,8 @@ dsp-service.admatic.de
 dsum-sec.casalemedia.com
 dt.adsafeprotected.com
 e.serverbid.com
+e738fd820437de4b9acbbb8d01bc054d.safeframe.googlesyndication.com
+ea7f30828c314b61c7be39f84b11c1d0.safeframe.googlesyndication.com
 eb2.3lift.com
 elb.the-ozone-project.com
 encrypted-tbn0.gstatic.com
@@ -135,6 +144,7 @@ events-ssc.33across.com
 exch.quantcount.com
 exchange.mediavine.com
 f.vimeocdn.com
+f0a6bd041f78b501d8b8e64d859e6869.safeframe.googlesyndication.com
 fastlane.rubiconproject.com
 fb68e8c6fe8edc775e11fed30d3775b3.safeframe.googlesyndication.com
 fledge.us.criteo.com
@@ -145,6 +155,7 @@ googleads.g.doubleclick.net
 googlesyndication.com
 gotham.prd-00.retargetly.com
 gum.criteo.com
+hb.trustedstack.com
 hbopenbid.pubmatic.com
 http2.mlstatic.com
 i.liadm.com
@@ -152,6 +163,7 @@ i.vimeocdn.com
 ib.adnxs.com
 ice.360yield.com
 id.a-mx.com
+id.google.com
 id.rlcdn.com
 id.rtb.mx
 id5-sync.com
@@ -193,6 +205,7 @@ pagead2.googlesyndication.com
 pbjs.e-planning.net
 pbs.aniview.com
 pbs.nextmillmedia.com
+pbs.optidigital.com
 pbs.yahoo.com
 pi.pardot.com
 pixel.adsafeprotected.com
@@ -219,6 +232,7 @@ px.ads.linkedin.com
 px4.ads.linkedin.com
 r.casalemedia.com
 retargetly.com
+rt.marphezis.com
 rtb.adpone.com
 rtb.gumgum.com
 rtb.us5.us.criteo.com
@@ -264,6 +278,7 @@ sync.adkernel.com
 sync.a-mo.net
 sync.amperwave.net
 sync.aniview.com
+sync.aralego.com
 sync.bfmio.com
 sync.connectad.io
 sync.cootlogix.com
@@ -295,9 +310,11 @@ t.teads.tv
 t2.richaudience.com
 t3.teads.tv
 tagmanager.alright.network
+td.doubleclick.net
 token.rubiconproject.com
 tpc.googlesyndication.com
 tr.blismedia.com
+translate-pa.googleapis.com
 trc.taboola.com
 tt-12765-5.seg.t.tailtarget.com
 u.4dex.io
@@ -321,6 +338,8 @@ wt.rqtrk.eu
 www.googleadservices.com
 www.gstatic.com
 www.ibm.com
+www.zimaspace.com
 www9.smartadserver.com
 x.bidswitch.net
 ym-tack.b-cdn.net
+zimaspace.com
