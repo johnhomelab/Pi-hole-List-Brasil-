@@ -4,7 +4,7 @@
 # Donation: 
 # Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados:  507
+# Total Sites Bloqueados:  501
 
 
 
@@ -67,7 +67,6 @@ acdn.adnxs.com
 ad.360yield.com
 ad.doubleclick.net
 ad.turn.com
-adblockplus.org
 ade.googlesyndication.com
 ad-events.flashtalking.com
 ads.avads.net
@@ -115,8 +114,6 @@ bidberry.net
 bidder.criteo.com
 bidder.smartytouch.co
 bigbidow.t3.storage.dev
-blockadsnot.com
-blog-casaos.zimaspace.com
 broker-qx.pro
 bttrack.com
 c.4dex.tech
@@ -209,8 +206,6 @@ e1.emxdgt.com
 e4086384a84a2b32d00e5c1f989adb40.safeframe.googlesyndication.com
 e738fd820437de4b9acbbb8d01bc054d.safeframe.googlesyndication.com
 ea7f30828c314b61c7be39f84b11c1d0.safeframe.googlesyndication.com
-easylist.to
-easylist-downloads.adblockplus.org
 eb2.3lift.com
 eitri.api.useinsider.com
 elb.the-ozone-project.com
@@ -508,7 +503,6 @@ vpaid.vidoomy.com
 w3-reporting.reddit.com
 waa-pa.clients6.google.com
 wt.rqtrk.eu
-www.blockadsnot.com
 www.datadoghq-browser-agent.com
 www8.smartadserver.com
 www9.smartadserver.com
