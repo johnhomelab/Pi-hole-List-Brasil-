@@ -4,7 +4,7 @@
 # Donation: 
 # Last modified: 18-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados:  465
+# Total Sites Bloqueados:  507
 
 
 
@@ -15,6 +15,8 @@
 0de8a471854b73afbb712d6c891f33bd.safeframe.googlesyndication.com
 0f13bc262ac09ad168b6d75c786d703e.safeframe.googlesyndication.com
 10094105f3b58b7e4b7a2a8a5cc6cf37.safeframe.googlesyndication.com
+13.innospark.cloud
+14127847.fls.doubleclick.net
 17630c6b2c28a15e88fcad3a9e858c25.safeframe.googlesyndication.com
 186f206436be470fa326a3e7226167bc.safeframe.googlesyndication.com
 1c275eac929a90f50ff959d382b578ff.safeframe.googlesyndication.com
@@ -33,6 +35,7 @@
 35840fd1c3b360c532a15137fce08518.safeframe.googlesyndication.com
 36826c0acba433a64f05222961979c6b.safeframe.googlesyndication.com
 3f0d6aeec3ced0a60992910e21796b9e.safeframe.googlesyndication.com
+4.adsco.re
 48a9daeda3f13626dc93e0d3e451d35e.safeframe.googlesyndication.com
 5173704f928a5862e94a3e49d60b6319.safeframe.googlesyndication.com
 5e0a7472d1eab0b515ed44b3ccc6690f.safeframe.googlesyndication.com
@@ -49,6 +52,8 @@
 9563037f44e3b6e20503ca67719e263d.safeframe.googlesyndication.com
 9ff87443baf51b74bce8482b876565f6.safeframe.googlesyndication.com
 a.amxrtb.com
+a.dtssrv.com
+a.mrktmtrcs.net
 a.teads.tv
 a.thumbs.redditmedia.com
 a.vidoomy.com
@@ -57,6 +62,7 @@ aa.agkn.com
 aa139e38965248308769512888a072ec.safeframe.googlesyndication.com
 aax.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+accounts.youtube.com
 acdn.adnxs.com
 ad.360yield.com
 ad.doubleclick.net
@@ -71,10 +77,8 @@ ads.stickyadstv.com
 ads.us.criteo.com
 ads.us.e-planning.net
 ads.yieldmo.com
-adservice.google.com
+adsco.re
 adsmarketingfrontend-pa.clients6.google.com
-adssettings.google.com
-adtrafficquality.google
 adx.adform.net
 aes.us-east.3px.axp.amazon-adsystem.com
 agen-assets.ftstatic.com
@@ -89,6 +93,7 @@ appleid.cdn-apple.com
 apps.sascdn.com
 arclight.vimeo.com
 assets.meliadn.com
+ats-wrapper.privacymanager.io
 b.sharethrough.com
 b.t.tailtarget.com
 b.thumbs.redditmedia.com
@@ -106,12 +111,18 @@ beacon-iad2.rubiconproject.com
 bh.contextweb.com
 bh-xandr.contextweb.com
 bid.g.doubleclick.net
+bidberry.net
 bidder.criteo.com
 bidder.smartytouch.co
+bigbidow.t3.storage.dev
+blockadsnot.com
 blog-casaos.zimaspace.com
+broker-qx.pro
 bttrack.com
 c.4dex.tech
+c.adsco.re
 c.amazon-adsystem.com
+c.cintnetworks.com
 c.evidon.com
 c1.adform.net
 c21lg-d.media.net
@@ -119,13 +130,18 @@ c8f1f1efbf21d3fd6a017fe98d5f1506.safeframe.googlesyndication.com
 cadmus2.script.ac
 capi.connatix.com
 cat.us5.us.criteo.com
+cd8140f7d120d7e797aabfae9179be5e.safeframe.googlesyndication.com
 cdn.00px.net
+cdn.adjust.com
 cdn.ampproject.org
 cdn.debugbear.com
 cdn.flashtalking.com
+cdn.insurads.com
 cdn.jsdelivr.net
 cdn.membrana.media
+cdn.mouseflow.com
 cdn.n.dynstc.com
+cdn.navdmp.com
 cdn.optimizely.com
 cdn.prod.euid.eu
 cdn.prod.website-files.com
@@ -164,6 +180,7 @@ cs.media.net
 cs.minutemedia-prebid.com
 cs.yellowblue.io
 csi.gstatic.com
+csm.us5.us.criteo.net
 csp.withgoogle.com
 csync.loopme.me
 csync.smartadserver.com
@@ -185,6 +202,8 @@ dsp.adfarm1.adition.com
 dsp-service.admatic.de
 dsum-sec.casalemedia.com
 dt.adsafeprotected.com
+dynamic.criteo.com
+e.dtscout.com
 e.serverbid.com
 e1.emxdgt.com
 e4086384a84a2b32d00e5c1f989adb40.safeframe.googlesyndication.com
@@ -193,6 +212,7 @@ ea7f30828c314b61c7be39f84b11c1d0.safeframe.googlesyndication.com
 easylist.to
 easylist-downloads.adblockplus.org
 eb2.3lift.com
+eitri.api.useinsider.com
 elb.the-ozone-project.com
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -215,7 +235,9 @@ f.vimeocdn.com
 f0a6bd041f78b501d8b8e64d859e6869.safeframe.googlesyndication.com
 fastlane.rubiconproject.com
 fb68e8c6fe8edc775e11fed30d3775b3.safeframe.googlesyndication.com
+fineleads.getitquickly.biz
 fledge.us.criteo.com
+fundingchoicesmessages.google.com
 gcdn.2mdn.net
 global.ib-ibi.com
 go.pubmatic.com
@@ -238,7 +260,6 @@ ib.mookie1.com
 ice.360yield.com
 ics.travelaudience.com
 id.a-mx.com
-id.google.com
 id.rlcdn.com
 id.rtb.mx
 id5-sync.com
@@ -251,6 +272,7 @@ imageproxy.us.criteo.net
 images.taboola.com
 images-na.ssl-images-amazon.com
 imasdk.googleapis.com
+img.youtube.com
 imprchmp.taboola.com
 impressions.onelink.me
 inv-nets.admixer.net
@@ -259,8 +281,11 @@ js.ad-score.com
 js2.ad-score.com
 kinesis.us-east-2.amazonaws.com
 l.evidon.com
+launchpad.privacymanager.io
+launchpad-wrapper.privacymanager.io
 lh3.googleusercontent.com
 lh6.ggpht.com
+limontorrent.org
 live.primis.tech
 loadm.exelator.com
 logx.optimizely.com
@@ -281,6 +306,8 @@ ms-cookie-sync.presage.io
 mug.criteo.com
 mweb.ck.inmobi.com
 mytools.management
+nrb.ybp.yahoo.com
+nym2-ib.adnxs.com
 o418887.ingest.sentry.io
 ob.cheqzone.com
 obs.cheqzone.com
@@ -298,6 +325,7 @@ pbs.optidigital.com
 pbs.yahoo.com
 pi.pardot.com
 pixel.adsafeprotected.com
+pixel.onaudience.com
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.tapad.com
@@ -313,6 +341,7 @@ prebid.admatic.de
 prebid.adnxs.com
 prebid.a-mo.net
 prebid.media.net
+prebid-a.rubiconproject.com
 prebid-s2s.media.net
 prebid-server.rubiconproject.com
 preview.redd.it
@@ -324,6 +353,7 @@ px.ads.linkedin.com
 px4.ads.linkedin.com
 qsearch-a.akamaihd.net
 quantcast.partners.tremorhub.com
+qxbroker.com
 r.casalemedia.com
 r1---sn-gpv7kn76.c.2mdn.net
 r1---sn-gpv7kne7.c.2mdn.net
@@ -356,9 +386,12 @@ s.ad.smaato.net
 s.ads.smartadserver.com
 s.amazon-adsystem.com
 s.seedtag.com
+s.tpcserve.com
 s.update.rubiconproject.com
 s0.2mdn.net
+s10.histats.com
 s2s.t13.io
+s4.histats.com
 s8t.teads.tv
 sb.scorecardresearch.com
 script.4dex.io
@@ -370,9 +403,11 @@ secure-assets.rubiconproject.com
 securepubads.g.doubleclick.net
 servedby.flashtalking.com
 server.smartytech.io
+services.insurads.com
 shb.richaudience.com
 signaler-pa.clients6.google.com
 snap.licdn.com
+sp-ao.shortpixel.ai
 ssb-use1.smartadserver.com
 ssb-use2.smartadserver.com
 ssb-usw1.smartadserver.com
@@ -423,7 +458,10 @@ sync.technoratimedia.com
 sync6.im-apps.net
 synchroscript.deliveryengine.adswizz.com
 sync-t1.taboola.com
+syndicatedsearch.goog
 t.adx.opera.com
+t.dtscdn.com
+t.dtscout.com
 t.richaudience.com
 t.seedtag.com
 t.tailtarget.com
@@ -431,7 +469,9 @@ t.teads.tv
 t.us1.dyntrk.com
 t2.richaudience.com
 t3.teads.tv
+tag.navdmp.com
 tagmanager.alright.network
+tags.crwdcntrl.net
 tags.t.tailtarget.com
 td.doubleclick.net
 token.rubiconproject.com
@@ -449,6 +489,7 @@ um.simpli.fi
 ums.acuityplatform.com
 unified.adsafeprotected.com
 ups.analytics.yahoo.com
+us.creativecdn.com
 us.shb-sync.com
 use1.smartadserver.com
 use4.s.seedtag.com
@@ -467,7 +508,8 @@ vpaid.vidoomy.com
 w3-reporting.reddit.com
 waa-pa.clients6.google.com
 wt.rqtrk.eu
-www.googleadservices.com
+www.blockadsnot.com
+www.datadoghq-browser-agent.com
 www8.smartadserver.com
 www9.smartadserver.com
 x.bidswitch.net
