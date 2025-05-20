@@ -4,7 +4,7 @@
 # Donation: 
 # Last modified: 20-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados:  556
+# Total Sites Bloqueados:  554
 
 
 
@@ -297,7 +297,6 @@ imageproxy.us.criteo.net
 images.taboola.com
 images-na.ssl-images-amazon.com
 imasdk.googleapis.com
-img.youtube.com
 imprchmp.taboola.com
 impressions.onelink.me
 inv-nets.admixer.net
@@ -340,7 +339,6 @@ oajs.openx.net
 ob.cheqzone.com
 obs.cheqzone.com
 ogads-pa.clients6.google.com
-ogs.google.com
 onetag-sys.com
 openx-ums.acuityplatform.com
 ow.pubmatic.com
