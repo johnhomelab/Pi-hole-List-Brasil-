@@ -1,10 +1,10 @@
 #Title: lista_ads_brasil_pihole
-# Version: 0.60
+# Version: 0.7
 # Homepage: https://github.com/johnhomelab
 # Donation: 
-# Last modified: 18-05-2025 08:59 AM
+# Last modified: 20-05-2025 08:59 AM
 # License: 
-# Total Sites Bloqueados:  501
+# Total Sites Bloqueados:  556
 
 
 
@@ -30,8 +30,10 @@
 224.32.32.215
 224.32.32.228
 224.32.32.32
+27820bb20698a563b7223d4ad47fa0d7.safeframe.googlesyndication.com
 27bc56aa7cde083b8235b433387d371c.safeframe.googlesyndication.com
 2e2ae1592be0dfec6754e93f4f98f6fd.safeframe.googlesyndication.com
+3032c7eedb7278d0d278190812562ecf.safeframe.googlesyndication.com
 35840fd1c3b360c532a15137fce08518.safeframe.googlesyndication.com
 36826c0acba433a64f05222961979c6b.safeframe.googlesyndication.com
 3f0d6aeec3ced0a60992910e21796b9e.safeframe.googlesyndication.com
@@ -40,9 +42,12 @@
 5173704f928a5862e94a3e49d60b6319.safeframe.googlesyndication.com
 5e0a7472d1eab0b515ed44b3ccc6690f.safeframe.googlesyndication.com
 5f14ac51b555e502cb0510b319d75f0f.safeframe.googlesyndication.com
+6.adsco.re
 60b5d0f1c11f08dcb153c4edbdffe1c1.safeframe.googlesyndication.com
+62bda0a5b11dbbfc184330a93ad4dbeb.safeframe.googlesyndication.com
 68c1ebd96c6c34ab682ba73392638211.safeframe.googlesyndication.com
 749ddfcaca0495b723531ca5edb51fa9.safeframe.googlesyndication.com
+78a26ff0569b89bbd7662585fb37d896.safeframe.googlesyndication.com
 7d8efa3b103db51e53c5a831eec28857.safeframe.googlesyndication.com
 81eb1d394c6c2a0f18a0639d703b3c63.safeframe.googlesyndication.com
 865fb13f3edf405614b49eaa6964589a.safeframe.googlesyndication.com
@@ -56,6 +61,7 @@ a.dtssrv.com
 a.mrktmtrcs.net
 a.teads.tv
 a.thumbs.redditmedia.com
+a.utraff.com
 a.vidoomy.com
 a8881444f22a65805ea3a22b623823cf.safeframe.googlesyndication.com
 aa.agkn.com
@@ -69,7 +75,9 @@ ad.doubleclick.net
 ad.turn.com
 ade.googlesyndication.com
 ad-events.flashtalking.com
+ads.adlook.me
 ads.avads.net
+ads.betweendigital.com
 ads.mythad.com
 ads.pubmatic.com
 ads.stickyadstv.com
@@ -84,6 +92,7 @@ agen-assets.ftstatic.com
 ajax.cloudflare.com
 ajs-assets.ftstatic.com
 alb.reddit.com
+an.yandex.ru
 aorta.clickagy.com
 ap.lijit.com
 api.retargetly.com
@@ -91,6 +100,7 @@ app.retargetly.com
 appleid.cdn-apple.com
 apps.sascdn.com
 arclight.vimeo.com
+ash.creativecdn.com
 assets.meliadn.com
 ats-wrapper.privacymanager.io
 b.sharethrough.com
@@ -114,11 +124,15 @@ bidberry.net
 bidder.criteo.com
 bidder.smartytouch.co
 bigbidow.t3.storage.dev
+blockadsnot.com
 broker-qx.pro
+btlr.sharethrough.com
 bttrack.com
+c.4dex.io
 c.4dex.tech
 c.adsco.re
 c.amazon-adsystem.com
+c.bing.com
 c.cintnetworks.com
 c.evidon.com
 c1.adform.net
@@ -130,9 +144,11 @@ cat.us5.us.criteo.com
 cd8140f7d120d7e797aabfae9179be5e.safeframe.googlesyndication.com
 cdn.00px.net
 cdn.adjust.com
+cdn.adnxs.com
 cdn.ampproject.org
 cdn.debugbear.com
 cdn.flashtalking.com
+cdn.indexww.com
 cdn.insurads.com
 cdn.jsdelivr.net
 cdn.membrana.media
@@ -145,6 +161,7 @@ cdn.prod.website-files.com
 cdn.taboola.com
 cdn3.optimizely.com
 cdn-icons-png.flaticon.com
+cdn-ima.33across.com
 cdnjs.cloudflare.com
 cds.taboola.com
 ce.lijit.com
@@ -157,16 +174,21 @@ click1.mercadolivre.com.br
 client-side-metrics.us.criteo.net
 cm.adgrx.com
 cm.g.doubleclick.net
+cm.nhnace.com
 cm.t.tailtarget.com
+cm-exchange.toast.com
 cms.quantserve.com
 config.aps.amazon-adsystem.com
+config.seedtag.com
 connect.facebook.net
 content.quantcount.com
 contextual.media.net
+cookies.andbeyond.media
 cookies.nextmillmedia.com
 cookie-sync.api.soundcast.fm
 cp.pubfinity.com
 crb.kargo.com
+crcdn09.adnxs-simple.com
 crcldu.com
 creativecdn.com
 creatives.seedtag.com
@@ -203,8 +225,10 @@ dynamic.criteo.com
 e.dtscout.com
 e.serverbid.com
 e1.emxdgt.com
+e1f633c92b5e020abce9bfb72a55426a.safeframe.googlesyndication.com
 e4086384a84a2b32d00e5c1f989adb40.safeframe.googlesyndication.com
 e738fd820437de4b9acbbb8d01bc054d.safeframe.googlesyndication.com
+e8efd1bc29aeb52567627e4cccf2aaf2.safeframe.googlesyndication.com
 ea7f30828c314b61c7be39f84b11c1d0.safeframe.googlesyndication.com
 eb2.3lift.com
 eitri.api.useinsider.com
@@ -217,6 +241,7 @@ ep2.adtrafficquality.google
 ep3.adtrafficquality.google
 eqt-gc.rendering.sharethrough.com
 error-tracking.reddit.com
+esp.rtbhouse.com
 eu.ck-ie.com
 eu-rtbstack-cm.admixer.net
 eus.rubiconproject.com
@@ -230,6 +255,7 @@ f.vimeocdn.com
 f0a6bd041f78b501d8b8e64d859e6869.safeframe.googlesyndication.com
 fastlane.rubiconproject.com
 fb68e8c6fe8edc775e11fed30d3775b3.safeframe.googlesyndication.com
+fbd81493b4ad4d275226764f7116cdd9.safeframe.googlesyndication.com
 fineleads.getitquickly.biz
 fledge.us.criteo.com
 fundingchoicesmessages.google.com
@@ -242,16 +268,20 @@ googledv-match.dotomi.com
 googlesyndication.com
 googlevideo.com
 gotham.prd-00.retargetly.com
+grid-bidder.criteo.com
 gum.criteo.com
+hb.adpone.com
 hb.trustedstack.com
 hblg.media.net
 hbopenbid.pubmatic.com
+htlb.casalemedia.com
 http2.mlstatic.com
 i.liadm.com
 i.vimeocdn.com
 i.ytimg.com
 ib.adnxs.com
 ib.mookie1.com
+ic.tynt.com
 ice.360yield.com
 ics.travelaudience.com
 id.a-mx.com
@@ -285,6 +315,7 @@ live.primis.tech
 loadm.exelator.com
 logx.optimizely.com
 lyr.pubmatic.com
+m.adnxs.com
 m.media-amazon.com
 match.360yield.com
 match.adsby.bidtheatre.com
@@ -300,10 +331,12 @@ mp.4dex.io
 ms-cookie-sync.presage.io
 mug.criteo.com
 mweb.ck.inmobi.com
+mwzeom.zeotap.com
 mytools.management
 nrb.ybp.yahoo.com
 nym2-ib.adnxs.com
 o418887.ingest.sentry.io
+oajs.openx.net
 ob.cheqzone.com
 obs.cheqzone.com
 ogads-pa.clients6.google.com
@@ -318,6 +351,7 @@ pbs.aniview.com
 pbs.nextmillmedia.com
 pbs.optidigital.com
 pbs.yahoo.com
+pbs-cs.yellowblue.io
 pi.pardot.com
 pixel.adsafeprotected.com
 pixel.onaudience.com
@@ -341,11 +375,14 @@ prebid-s2s.media.net
 prebid-server.rubiconproject.com
 preview.redd.it
 prg.smartadserver.com
+ps.eyeota.net
 pt.anotepad.com
 public-prod-dspcookiematching.dmxleo.com
 pubmatic.com
+px.adhigh.net
 px.ads.linkedin.com
 px4.ads.linkedin.com
+qlerbylpxcrd.n4.adsco.re
 qsearch-a.akamaihd.net
 quantcast.partners.tremorhub.com
 qxbroker.com
@@ -359,6 +396,7 @@ r4---sn-gpv7kn7y.c.2mdn.net
 r4---sn-gpv7kne7.c.2mdn.net
 r5---sn-gpv7ynes.c.2mdn.net
 realtimesupport.clients6.google.com
+reingod.com
 retargetly.com
 rr1---sn-xhcg5uxa-nn5e.googlevideo.com
 rr2---sn-xhcg5uxa-nn5e.googlevideo.com
@@ -380,8 +418,11 @@ rules.quantcount.com
 s.ad.smaato.net
 s.ads.smartadserver.com
 s.amazon-adsystem.com
+s.richaudience.com
 s.seedtag.com
+s.thebrighttag.com
 s.tpcserve.com
+s.update.ib.adnxs.net
 s.update.rubiconproject.com
 s0.2mdn.net
 s10.histats.com
@@ -403,6 +444,9 @@ shb.richaudience.com
 signaler-pa.clients6.google.com
 snap.licdn.com
 sp-ao.shortpixel.ai
+spl.zeotap.com
+ssb-euw1.smartadserver.com
+ssb-global.smartadserver.com
 ssb-use1.smartadserver.com
 ssb-use2.smartadserver.com
 ssb-usw1.smartadserver.com
@@ -412,12 +456,14 @@ ssp-sync.criteo.com
 ssum.casalemedia.com
 ssum-sec.casalemedia.com
 st.pubmatic.com
+stags.bluekai.com
 static.adsafeprotected.com
 static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
 static.richaudience.com
 staticassets-creator-design.criteo.net
+statics.creativecdn.com
 stats.g.doubleclick.net
 studio-t.teads.tv
 styles.redditmedia.com
@@ -428,8 +474,10 @@ sync.amperwave.net
 sync.aniview.com
 sync.aralego.com
 sync.bfmio.com
+sync.bumlam.com
 sync.connectad.io
 sync.cootlogix.com
+sync.creativedot2.net
 sync.crwdcntrl.net
 sync.e-planning.net
 sync.ex.co
@@ -471,6 +519,7 @@ tags.t.tailtarget.com
 td.doubleclick.net
 token.rubiconproject.com
 tpc.googlesyndication.com
+tpsc-ue1.doubleverify.com
 tr.blismedia.com
 track-events.membrana.media
 trc.taboola.com
@@ -492,7 +541,9 @@ usermatch.targeting.unrulymedia.com
 usersync.gumgum.com
 usr.undertone.com
 us-u.openx.net
+us-wf.taboola.com
 video.google.com
+video.seedtag.com
 video-content.b-cdn.net
 videos.taboola.com
 vid-io-iad.springserve.com
@@ -503,9 +554,13 @@ vpaid.vidoomy.com
 w3-reporting.reddit.com
 waa-pa.clients6.google.com
 wt.rqtrk.eu
+www.blockadsnot.com
 www.datadoghq-browser-agent.com
+www.googleadservices.com
+www.tns-counter.ru
 www8.smartadserver.com
 www9.smartadserver.com
 x.bidswitch.net
+x01.aidata.io
 ym-tack.b-cdn.net
 yt3.ggpht.com
