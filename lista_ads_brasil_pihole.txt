@@ -5,6 +5,9 @@
 # Last modified: 20-05-2025 08:59 AM
 # License: 
 # Total Sites Bloqueados:  554
+# Para um bloqueio mais eficaz utilizar em conjuntos as listas Adblock Plus
+# https://easylist-downloads.adblockplus.org/v3/full/easylistportuguese+easylist.txt
+# https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt
 
 
 
