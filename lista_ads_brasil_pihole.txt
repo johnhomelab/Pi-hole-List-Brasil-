@@ -307,8 +307,6 @@ kinesis.us-east-2.amazonaws.com
 l.evidon.com
 launchpad.privacymanager.io
 launchpad-wrapper.privacymanager.io
-lh3.googleusercontent.com
-lh6.ggpht.com
 limontorrent.org
 live.primis.tech
 loadm.exelator.com
