@@ -236,9 +236,6 @@ ea7f30828c314b61c7be39f84b11c1d0.safeframe.googlesyndication.com
 eb2.3lift.com
 eitri.api.useinsider.com
 elb.the-ozone-project.com
-encrypted-tbn0.gstatic.com
-encrypted-tbn1.gstatic.com
-encrypted-vtbn0.gstatic.com
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
