@@ -73,7 +73,6 @@ bh.contextweb.com
 cat.us5.us.criteo.com
 .criteo.com
 cdn.debugbear.com
-cdn.jsdelivr.net
 client-side-metrics.us.criteo.net
 cm.g.doubleclick.net
 .doubleclick.net
