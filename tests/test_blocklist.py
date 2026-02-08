@@ -1,11 +1,19 @@
 import pytest
 import re
 import os
+import ipaddress
 
 # Find the root directory relative to this test file
 TEST_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(TEST_DIR)
 BLOCKLIST_PATH = os.path.join(ROOT_DIR, "lista_ads_brasil_pihole.txt")
+
+def is_ip(val):
+    try:
+        ipaddress.ip_address(val)
+        return True
+    except ValueError:
+        return False
 
 def get_domains():
     domains = []
@@ -48,10 +56,8 @@ def test_unique():
 
 def test_no_ips():
     domains = get_domains()
-    # Simple regex for IPv4 addresses
-    ip_pattern = re.compile(r"^\d{1,3}(\.\d{1,3}){3}$")
-    ips = [d for d in domains if ip_pattern.match(d)]
-    assert not ips, f"Blocklist contains IP addresses: {ips[:10]}"
+    ips = [d for d in domains if is_ip(d)]
+    assert not ips, f"Blocklist contains IP addresses (IPv4 or IPv6): {ips[:10]}"
 
 def test_header_count():
     domains = get_domains()

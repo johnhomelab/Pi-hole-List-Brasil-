@@ -1,11 +1,19 @@
 import os
 import re
+import ipaddress
 from datetime import datetime
 
 # Find the root directory relative to this script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 BLOCKLIST_PATH = os.path.join(ROOT_DIR, "lista_ads_brasil_pihole.txt")
+
+def is_ip(val):
+    try:
+        ipaddress.ip_address(val)
+        return True
+    except ValueError:
+        return False
 
 def refactor():
     if not os.path.exists(BLOCKLIST_PATH):
@@ -19,14 +27,13 @@ def refactor():
 
     header_lines = []
     domains = set()
-    ip_pattern = re.compile(r"^\d{1,3}(\.\d{1,3}){3}$")
 
     for line in lines:
         stripped = line.strip()
         if stripped.startswith("#"):
             header_lines.append(stripped)
         elif stripped:
-            if not ip_pattern.match(stripped):
+            if not is_ip(stripped):
                 domains.add(stripped)
 
     sorted_domains = sorted(list(domains))
