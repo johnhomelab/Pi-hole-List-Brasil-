@@ -1,11 +1,10 @@
 #Title: lista_ads_brasil_pihole
-# Version: 0.7
+# Version: 1.7
 # Homepage: https://github.com/johnhomelab
 # Donation: 
-# Last modified: 08-02-2026 03:12 AM
+# Last modified: 13-02-2026 00:12 AM
 # License: 
 # Total Sites Bloqueados:  543
-# Total Sites Bloqueados:  567
 # Para um bloqueio mais eficaz utilizar em conjuntos as listas Adblock Plus
 # https://easylist-downloads.adblockplus.org/v3/full/easylistportuguese+easylist.txt
 # https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt
@@ -568,3 +567,4 @@ x.bidswitch.net
 x01.aidata.io
 ym-tack.b-cdn.net
 yt3.ggpht.com
+
