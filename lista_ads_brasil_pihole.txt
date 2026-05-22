@@ -1,6 +1,10 @@
 #Title: lista_ads_brasil_pihole
 # Version: 1.7
 # Homepage: https://github.com/johnhomelab
+# Donation:
+# Last modified: 08-02-2026 04:14 AM
+# License:
+# Total Sites Bloqueados:  558
 # Donation: 
 # Last modified: 13-02-2026 00:12 AM
 # License: 
@@ -24,6 +28,8 @@
 17630c6b2c28a15e88fcad3a9e858c25.safeframe.googlesyndication.com
 186f206436be470fa326a3e7226167bc.safeframe.googlesyndication.com
 1c275eac929a90f50ff959d382b578ff.safeframe.googlesyndication.com
+1da03f6aaec540cfc06909b90af28c06.safeframe.googlesyndication.com
+27820bb20698a563b7223d4ad47fa0d7.safeframe.googlesyndication.com
 27bc56aa7cde083b8235b433387d371c.safeframe.googlesyndication.com
 2e2ae1592be0dfec6754e93f4f98f6fd.safeframe.googlesyndication.com
 3032c7eedb7278d0d278190812562ecf.safeframe.googlesyndication.com
